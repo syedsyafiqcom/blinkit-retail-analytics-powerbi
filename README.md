@@ -10,7 +10,7 @@ The goal is to transform raw business data into **actionable insights** using KP
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![image alt](https://github.com/syedsyafiqcom/blinkit-retail-analytics-powerbi/blob/main/Dashboard.png?raw=true)
 
 ---
 
